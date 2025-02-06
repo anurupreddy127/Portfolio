@@ -58,7 +58,8 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 📧 Email: koduruanurupreddy5@gmail.com
 
-🌐 Portfolio:
+🌐 Portfolio: https://anurupportfolio.surge.sh
+
 💼 LinkedIn: https://www.linkedin.com/in/anurupreddy127/
 
 ---
